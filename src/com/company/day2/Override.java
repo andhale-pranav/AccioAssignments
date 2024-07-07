@@ -12,7 +12,7 @@ class B extends A {
     }
 }
 
-public class Main {
+public class Override {
     public static void main(String[] args) {
         System.out.println("Hello");
 
